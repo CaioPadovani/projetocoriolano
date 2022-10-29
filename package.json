@@ -2,5 +2,6 @@
   "name": "coriolano",
   "version": "1.0.0",
   "main": "index.js",
+  "teste": "index.js",
   "license": "MIT"
 }
